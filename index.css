@@ -10,3 +10,21 @@
     background: url(pictures/back_ground_3.jpg) no-repeat;
     background-size: cover;
 }
+
+#bg {
+  height: 100px;
+  background-color: rgba(255,255,255,0.4);
+  opacity: 0.4;
+}
+
+h1 {
+  color: #000;
+  text-align: center;
+  line-height: 100px;
+}
+
+.text {
+  color: #000;
+  text-align: center;
+  line-height: 100px;
+}
