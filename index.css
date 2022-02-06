@@ -1,0 +1,12 @@
+.cloudimage-inner-box div {
+    display: none;
+  }
+
+  .cloudimage-360 {
+      text-align: center;
+  }
+
+  .jumbotron {
+    background: url(pictures/back_ground_3.jpg) no-repeat;
+    background-size: cover;
+}
